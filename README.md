@@ -15,3 +15,9 @@
 ## 镜像配置
 
 - 工作目录：`/home/Projects`
+
+## 使用方法
+
+```shell
+docker run -p 9998:9998 -p 18091:18091 sperjar/ppocr:latest
+```
